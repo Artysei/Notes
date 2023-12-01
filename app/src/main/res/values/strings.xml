@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Андрюшины заметки</string>
+    <string name="edit_title">Параметры заметки</string>
+</resources>
